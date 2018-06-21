@@ -1,5 +1,5 @@
 AuthName "Restricted Area"
 AuthType Basic
-AuthUserFile /bin/heroku-php-apache2 web/web
+AuthUserFile /web
 AuthGroupFile /dev/null
 require valid-user
